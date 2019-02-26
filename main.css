@@ -1,0 +1,16 @@
+body {
+    background-image: url(assets/images/newnew.jpg);
+    margin: auto;
+}
+
+.catimage {
+    float: left;
+    height: auto;
+    width: 25%;
+    margin: 30px;
+}
+
+.container {
+    background: white;
+    width: 960px;
+}
